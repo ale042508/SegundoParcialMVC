@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SegundoParcialMVC/1.0.0": {
+        "runtime": {
+          "SegundoParcialMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SegundoParcialMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
